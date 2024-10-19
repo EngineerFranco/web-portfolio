@@ -39,7 +39,7 @@ export default function Contact() {
             if(error){
                 toast.error(error.toString())
             }
-
+            
             toast.success('Email sent succesfully!')
             
         }} className='flex flex-col gap-5 mt-10  mx-3 dark:text-gray-900 dark:border-white'>
