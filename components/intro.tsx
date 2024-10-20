@@ -26,7 +26,7 @@ export default function Intro() {
                     type:"tween",
                     duration: 0.3
                 }}>
-                  <Image src="https://i.pinimg.com/originals/f9/17/11/f91711371c45910f4e56f7bda4b7e946.jpg" 
+                  <Image src="/dp.PNG" 
                   alt='Intro image' 
                   width= {200} 
                   height={200} 

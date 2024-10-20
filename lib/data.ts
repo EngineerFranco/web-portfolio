@@ -10,6 +10,9 @@ import devFrancoBlogImg from "@/public/blog.png"
 import { FaJava } from "react-icons/fa";
 import { BiLogoJavascript } from "react-icons/bi";
 
+
+
+
 export const links = [
   {
     name: "Home",
